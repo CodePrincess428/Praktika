@@ -1,0 +1,6 @@
+/Users/imac/Projects/zadanie1/zadanie1/bin/Debug/zadanie1.exe
+/Users/imac/Projects/zadanie1/zadanie1/bin/Debug/zadanie1.pdb
+/Users/imac/Projects/zadanie1/zadanie1/obj/Debug/zadanie1.csprojAssemblyReference.cache
+/Users/imac/Projects/zadanie1/zadanie1/obj/Debug/zadanie1.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/zadanie1/zadanie1/obj/Debug/zadanie1.exe
+/Users/imac/Projects/zadanie1/zadanie1/obj/Debug/zadanie1.pdb
